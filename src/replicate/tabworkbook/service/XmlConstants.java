@@ -36,6 +36,9 @@ public class XmlConstants {
 	public final String ENCODING = "encoding";
 	public final String ATTR = "attr";
 	public final String FIELD = "field";
-
 	
+	public final String TYPE = "type";
+	public final String CALCULATION = "calculation";
+	public final String FORMULA = "formula";
+
 }
