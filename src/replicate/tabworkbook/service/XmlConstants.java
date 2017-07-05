@@ -1,44 +1,44 @@
 package replicate.tabworkbook.service;
 
-public class XmlConstants {
+public final class XmlConstants {
 
-	public final String AUTHENTICATION = "authentication";
-	public final String SERVER = "server";
-	public final String DBNAME = "dbname";
-	public final String USERNAME = "username";
+	public final static String AUTHENTICATION = "authentication";
+	public final static String SERVER = "server";
+	public final static String DBNAME = "dbname";
+	public final static String USERNAME = "username";
 	
-	public final String DATASOURCE = "datasource";
-	public final String HASCONNECTION = "hasconnection";
-	public final String CONNECTION = "connection";
-	public final String NAME = "name";
-	public final String WORKSHEET = "worksheet";
-	public final String RELATION = "relation";
-	public final String TABLE = "table";
-	public final String COLUMN = "column";
-	public final String CAPTION ="caption";
-	public final String DATATYPE = "datatype";
-	public final String ROLE = "role";
-	public final String VALUE = "value";
+	public final static String DATASOURCE = "datasource";
+	public final static String HASCONNECTION = "hasconnection";
+	public final static String CONNECTION = "connection";
+	public final static String NAME = "name";
+	public final static String WORKSHEET = "worksheet";
+	public final static String RELATION = "relation";
+	public final static String TABLE = "table";
+	public final static String COLUMN = "column";
+	public final static String CAPTION ="caption";
+	public final static String DATATYPE = "datatype";
+	public final static String ROLE = "role";
+	public final static String VALUE = "value";
 	
 	
-	public final String PANE = "pane";
-	public final String ID = "id";
-	public final String Y_AXIS_NAME = "y-axis-name";
-	public final String X_AXIS_NAME = "x-axis-name";
-	public final String BREAKDOWN = "breakdown";
-	public final String _CLASS = "class";
-	public final String COLOR = "color";
-	public final String MAP = "map";
-	public final String TO = "to";
-	public final String MARK = "mark";
+	public final static String PANE = "pane";
+	public final static String ID = "id";
+	public final static String Y_AXIS_NAME = "y-axis-name";
+	public final static String X_AXIS_NAME = "x-axis-name";
+	public final static String BREAKDOWN = "breakdown";
+	public final static String _CLASS = "class";
+	public final static String COLOR = "color";
+	public final static String MAP = "map";
+	public final static String TO = "to";
+	public final static String MARK = "mark";
 	
-	public final String BUCKET = "bucket";
-	public final String ENCODING = "encoding";
-	public final String ATTR = "attr";
-	public final String FIELD = "field";
+	public final static String BUCKET = "bucket";
+	public final static String ENCODING = "encoding";
+	public final static String ATTR = "attr";
+	public final static String FIELD = "field";
 	
-	public final String TYPE = "type";
-	public final String CALCULATION = "calculation";
-	public final String FORMULA = "formula";
+	public final static String TYPE = "type";
+	public final static String CALCULATION = "calculation";
+	public final static String FORMULA = "formula";
 
 }

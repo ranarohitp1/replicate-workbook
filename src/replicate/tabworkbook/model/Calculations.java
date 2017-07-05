@@ -2,18 +2,13 @@ package replicate.tabworkbook.model;
 
 public class Calculations {
 
-	String caption;
-	String datatype;
-	String name;
-	String role;
-	String type;
-	String cal_Class;
-	String formula;
-	
-	public Calculations()
-	{
-		
-	}
+	private String caption;
+	private String datatype;
+	private String name;
+	private String role;
+	private String type;
+	private String cal_Class;
+	private String formula;
 
 	public String getCaption() {
 		return caption;
@@ -70,5 +65,5 @@ public class Calculations {
 	public void setFormula(String formula) {
 		this.formula = formula;
 	}
-	
+
 }
